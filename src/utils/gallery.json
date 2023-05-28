@@ -1,0 +1,34 @@
+[
+  {
+    "src": "https://cdn.pixabay.com/photo/2023/05/21/07/47/horse-8008038_1280.jpg",
+    "alt": "horse image"
+  },
+  {
+    "src": "https://cdn.pixabay.com/photo/2023/05/24/18/32/ladybug-8015502_1280.jpg",
+    "alt": "ladybug image"
+  },
+  {
+    "src": "https://cdn.pixabay.com/photo/2023/05/21/06/00/bird-8007868_1280.jpg",
+    "alt": "bird image"
+  },
+  {
+    "src": "https://cdn.pixabay.com/photo/2023/05/21/12/40/dog-8008483_1280.jpg",
+    "alt": "dog image"
+  },
+  {
+    "src": "https://cdn.pixabay.com/photo/2023/04/30/10/35/swallowtail-butterfly-7960262_1280.jpg",
+    "alt": "butterfly image"
+  },
+  {
+    "src": "https://cdn.pixabay.com/photo/2023/05/04/14/22/mountain-7970232_1280.jpg",
+    "alt": "mountain image"
+  },
+  {
+    "src": "https://cdn.pixabay.com/photo/2023/04/29/09/11/flower-7958117_1280.jpg",
+    "alt": "sakura image"
+  },
+  {
+    "src": "https://cdn.pixabay.com/photo/2023/05/15/01/44/flower-7993995_1280.jpg",
+    "alt": "flower image"
+  }
+]

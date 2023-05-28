@@ -2,9 +2,12 @@
   "compilerOptions": {
     "baseUrl": ".",
     "paths": {
-      "@/components": ["components"],
+      "components": ["src/components"],
+      "app/*": ["src/app/*"],
+      "utils/*": ["src/utils/*"],
       "@/public/*": ["public/*"]
-    }
+    },
+    "resolveJsonModule": true
   },
   "include": ["**/*.js", "**/*.jsx"],
   "exclude": ["node_modules"]
